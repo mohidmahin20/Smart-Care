@@ -33,7 +33,6 @@ CSRF_TRUSTED_ORIGINS = [
     "https://smart-care-ckzj.onrender.com",
     "http://127.0.0.1",
     "http://localhost",
-    "http://127.0.0.1:5500",
 ]
 
 
